@@ -1,0 +1,11 @@
+C:\Users\Vaishali\source\repos\StudentControl\bin\Debug\StudentControl.exe.config
+C:\Users\Vaishali\source\repos\StudentControl\bin\Debug\StudentControl.exe
+C:\Users\Vaishali\source\repos\StudentControl\bin\Debug\StudentControl.pdb
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.csproj.AssemblyReference.cache
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.Form1.resources
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.Properties.Resources.resources
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.csproj.GenerateResource.cache
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.csproj.CoreCompileInputs.cache
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.exe
+C:\Users\Vaishali\source\repos\StudentControl\obj\Debug\StudentControl.pdb
